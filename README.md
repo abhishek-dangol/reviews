@@ -1,4 +1,4 @@
 ### Link to the website:
-https://github.com/abhishek-dangol/reviews.git
+https://dan-reviews.netlify.app/
 
 ![](public/reviews.gif)
